@@ -1,0 +1,67 @@
+[
+    {
+    "id": 1,
+    "name": "Traditional Silk Saree",
+    "brand": "Ethnic Fashions",
+    "color": "Red",
+    "material": "Silk",
+    "price": 999,
+    "discount": 20,
+    "image": "https://i.ibb.co/WtBS73J/20201022-083840.jpg",
+    "author_name": "Sneha Sharma",
+    "author_image": "https://i.ibb.co/mTsf4Pq/photo-1570612861542-284f4c12e75f.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Embroidered Georgette Saree",
+    "brand": "Elegant Threads",
+    "color": "Blue",
+    "material": "Georgette",
+    "price": 1499,
+    "discount": 10,
+    "image": "https://i.ibb.co/0B21WsJ/20201023-164423.jpg",
+    "author_name": "Amit Kumar",
+    "author_image": "https://i.ibb.co/Q6tB0yR/photo-1599566150163-29194dcaad36.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Banarasi Silk Saree",
+    "brand": "Royal Weaves",
+    "color": "Gold",
+    "material": "Banarasi Silk",
+    "price": 1999,
+    "discount": 15,
+    "image": "https://i.ibb.co/dJJxJHP/20201022-084030.jpg",
+    "author_name": "Riya Patel",
+    "author_image": "https://i.ibb.co/61gQtg9/istockphoto-1181196036-170667a.webp"
+  },
+
+  {
+    "id": 4,
+    "name": "Kanjivaram Silk Saree",
+    "brand": "Classic Silks",
+    "color": "Green",
+    "material": "Kanjivaram Silk",
+    "price": 2499,
+    "discount": 25,
+    "image": "https://i.ibb.co/rsCH24z/20201023-155437.jpg",
+    "author_name": "Suresh Menon",
+    "author_image": "https://i.ibb.co/0GhTg8Q/photo-1500048993953-d23a436266cf.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Chiffon Printed Saree",
+    "brand": "Trendy Prints",
+    "color": "Pink",
+    "material": "Chiffon",
+    "price": 899,
+    "discount": 30,
+    "image": "https://i.ibb.co/0cJfJr9/20201022-084152.jpg",
+    "author_name": "Neha Singh",
+    "author_image": "https://i.ibb.co/Ss9fmvz/photo-1504593811423-6dd665756598.jpg"
+  }
+  
+  ]
